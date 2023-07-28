@@ -1,56 +1,56 @@
 {
-"login":{
-"id":15,
-"username": "Nikhil",
-"email": "nikhil@gmail.com",
-"firstName": "Nikhil",
-"lastName": "Vijayakumar",
-"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUsInVzZXJuYW1lIjoia21pbmNoZWxsZSIsImVtYWlsIjoia21pbmNoZWxsZUBxcS5jb20iLCJmaXJzdE5hbWUiOiJKZWFubmUiLCJsYXN0TmFtZSI6IkhhbHZvcnNvbiIsImdlbmRlciI6ImZlbWFsZSIsImltYWdlIjoiaHR0cHM6Ly9yb2JvaGFzaC5vcmcvYXV0cXVpYXV0LnBuZz9zaXplPTUweDUwJnNldD1zZXQxIiwiaWF0IjoxNjM1NzczOTYyLCJleHAiOjE2MzU3Nzc1NjJ9.n9PQX8w8ocKo0dMCw3g8bKhjB8Wo7f7IONFBDqfxKhs"
-},
-"security_question":{
-"question":"Favourite Sports Person"
-},
-"forgot_password":{
-"email": "nikhil@gmail.com",
-"question": "Favourite Sports Person",
-"answer": "Rohit Sharma"
-},
-"reset_password":{
-"email": "nikhil@gmail.com",
-"password": "Rohit@123",
-},
-"dashboard":[
-{
-"id":1,
-"name":"Organization"
-},
-{
-"id":2,
-"name":"Users"
-},
-{
-"id":3,
-"name": "Roles"
-},
-{
-"id":4,
-"name": "Products"
-},
-{
-"id":5,
-"name":"Component Types"
-},
-{
-"id":6,
-"name": "Components"
-},
-{
-"id":5,
-"name": "Sensor Types"
-},
-{
-"id":6,
-"name": "Sensors"
-}
-],
+  "login": {
+    "id": 15,
+    "username": "Nikhil",
+    "email": "nikhil@gmail.com",
+    "firstName": "Nikhil",
+    "lastName": "Vijayakumar",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUsInVzZXJuYW1lIjoia21pbmNoZWxsZSIsImVtYWlsIjoia21pbmNoZWxsZUBxcS5jb20iLCJmaXJzdE5hbWUiOiJKZWFubmUiLCJsYXN0TmFtZSI6IkhhbHZvcnNvbiIsImdlbmRlciI6ImZlbWFsZSIsImltYWdlIjoiaHR0cHM6Ly9yb2JvaGFzaC5vcmcvYXV0cXVpYXV0LnBuZz9zaXplPTUweDUwJnNldD1zZXQxIiwiaWF0IjoxNjM1NzczOTYyLCJleHAiOjE2MzU3Nzc1NjJ9.n9PQX8w8ocKo0dMCw3g8bKhjB8Wo7f7IONFBDqfxKhs"
+  },
+  "security_question": {
+    "question": "Favourite Sports Person"
+  },
+  "forgot_password": {
+    "email": "nikhil@gmail.com",
+    "question": "Favourite Sports Person",
+    "answer": "Rohit Sharma"
+  },
+  "reset_password": {
+    "email": "nikhil@gmail.com",
+    "new_password": "Rohit@123"
+  },
+  "dashboard": [
+    {
+      "id": 1,
+      "name": "Organization"
+    },
+    {
+      "id": 2,
+      "name": "Users"
+    },
+    {
+      "id": 3,
+      "name": "Roles"
+    },
+    {
+      "id": 4,
+      "name": "Products"
+    },
+    {
+      "id": 5,
+      "name": "Component Types"
+    },
+    {
+      "id": 6,
+      "name": "Components"
+    },
+    {
+      "id": 7,
+      "name": "Sensor Types"
+    },
+    {
+      "id": 8,
+      "name": "Sensors"
+    }
+  ]
 }
